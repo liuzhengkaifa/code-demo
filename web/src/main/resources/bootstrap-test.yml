@@ -1,10 +1,4 @@
-spring:
-  cloud:
-    nacos:
-      config:
-        server-addr: 182.92.167.234:8848
-  application:
-    name: service-cps-credit-server
+spring
 
   # 数据源配置，记得更换自己系统的配置
   datasource:
